@@ -1,0 +1,19 @@
+2021-11-28_16:44:30 automatePrj input file: D:/12_Innsbruck/chrm/projectfile/vent20211126.prjoutput file: outputPrjFile 
+2021-11-28_17:15:35 runCRHM command:D:/12_Innsbruck/chrm/crhm_20200702/CRHM.exe D:/12_Innsbruck/chrm/projectfile/vent20211126.prj 
+2021-11-28_17:45:19 automatePrj input file: D:/12_Innsbruck/chrm/projectfile/vent20211126.prjoutput file: outputPrjFile 
+2021-11-28_17:46:04 automatePrj input file: D:/12_Innsbruck/chrm/projectfile/vent20211126.prjoutput file: outputPrjFile 
+2021-11-28_17:58:32 runCRHM command:D:/12_Innsbruck/chrm/crhm_20200702/CRHM.exe D:/12_Innsbruck/chrm/projectfile/vent20211126.prj 
+2021-11-29_09:57:24 readObsFile obsFile:D:/12_Innsbruck/chrm/obs/crhmOBS_ventQ.obs datetype:discrete timezone:etc/GMT+1 
+2021-11-29_09:57:29 writeObsFile dataframe:obs .obs file: D:/12_Innsbruck/chrm/obs/crhmOBS_ventQ.obs 
+2021-11-29_17:12:30 automatePrj input file: D:/12_Innsbruck/chrm/projectfile/vent20211126.prjoutput file: outputPrjFile 
+2021-11-29_17:22:54 runCRHM command:D:/12_Innsbruck/chrm/crhm_20200702/CRHM.exe D:/12_Innsbruck/chrm/projectfile/vent20211126.prj 
+2021-11-29_18:42:20 automatePrj input file: D:/12_Innsbruck/chrm/projectfile/vent20211126.prjoutput file: outputPrjFile 
+2021-11-29_18:55:14 runCRHM command:D:/12_Innsbruck/chrm/crhm_20200702/CRHM.exe D:/12_Innsbruck/chrm/projectfile/vent20211126.prj 
+2021-11-30_15:14:22 automatePrj input file: D:/12_Innsbruck/chrm/projectfile/vent20211126.prjoutput file: outputPrjFile 
+2021-11-30_15:27:28 runCRHM command:D:/12_Innsbruck/chrm/crhm_20200702/CRHM.exe D:/12_Innsbruck/chrm/projectfile/vent20211126.prj 
+2021-11-30_16:57:41 automatePrj input file: D:/12_Innsbruck/chrm/projectfile/vent20211126.prjoutput file: outputPrjFile 
+2021-11-30_16:58:03 runCRHM command:D:/12_Innsbruck/chrm/crhm_20200702/CRHM.exe D:/12_Innsbruck/chrm/projectfile/vent20211126.prj 
+2021-11-30_17:02:26 automatePrj input file: D:/12_Innsbruck/chrm/projectfile/vent20211126.prjoutput file: outputPrjFile 
+2021-11-30_17:16:15 runCRHM command:D:/12_Innsbruck/chrm/crhm_20200702/CRHM.exe D:/12_Innsbruck/chrm/projectfile/vent20211126.prj 
+2021-11-30_19:23:56 automatePrj input file: D:/12_Innsbruck/chrm/projectfile/vent20211126.prjoutput file: outputPrjFile 
+2021-11-30_19:37:13 runCRHM command:D:/12_Innsbruck/chrm/crhm_20200702/CRHM.exe D:/12_Innsbruck/chrm/projectfile/vent20211126.prj 
